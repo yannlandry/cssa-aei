@@ -1,0 +1,35 @@
+body {
+	padding-top: 70px;
+}
+acronym {
+	border-bottom: 0;
+}
+acronym:hover {
+	border-bottom: 1px dotted #000;
+}
+ul.pagination {
+	margin: 0;
+}
+textarea {
+	resize: none;
+}
+div.pictures {
+	text-align: center;
+}
+div.pictures > a {
+	display: inline-block;
+	vertical-align: middle;
+	width: 220px;
+	padding: 10px;
+	text-align: center;
+}
+div.pictures > a:hover {
+	background-color: #F9F9F9;
+}
+footer {
+	margin-top: 60px;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 0.8em;
+	color: #AAA;
+}

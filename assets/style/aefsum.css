@@ -1,0 +1,60 @@
+header {
+	margin-bottom: 20px;
+	background-image: url('../images/triangular.png');
+	border-bottom: 1px solid #999;
+}
+header > #pageHeader {
+	padding: 16px 0;
+	color: #FFF;
+	text-shadow: 0px 0px 2px #000;
+}
+header > #pageHeader small {
+	color: #FFF;
+}
+header > #pageHeader p {
+	font-size: 1.2em;
+}
+
+#home-carousel {
+	min-height: 92px;
+}
+
+article img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.side-news p {
+	font-size: 0.9em;
+}
+
+textarea {
+	resize: none;
+}
+
+#infscr-trigger {
+	padding: 24px 0 16px;
+	font-size: 0.88em;
+	font-style: italic;
+	color: #999;
+}
+#infscr-trigger > a {
+	font-style: normal;
+}
+
+acronym {
+	border-width: 0;
+}
+acronym:hover {
+	border-width: 1px;
+}
+
+footer {
+	margin-top: 40px;
+	padding: 20px 0;
+	background-color: #EEE;
+	text-align: center;
+	font-size: 80%;
+	color: #BBB;
+}
